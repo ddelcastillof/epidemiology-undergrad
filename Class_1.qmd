@@ -1,0 +1,35 @@
+---
+title: "Introducción a la epidemiología"
+author: "Darwin Del Castillo, MD MPH"
+format: beamer
+editor: visual
+---
+
+## About me
+
+- Medico egresado de la UNMSM, Perú
+- Maestría en Salud Pública en University of Washington, USA
+- Doctorado en Epidemiología TBD
+
+## ¿Que aprenderán en esta clase?
+
+- Conceptos básicos de epidemiología
+- Diseños de investigación en epidemiología
+- Recordarán bioestadística/estadística para ciencias de la salud
+- Pinceladas de aplicaciones de epidemiología en el mundo real (vigilancia epidemiológica, epidemiología genética, etc.)
+
+## Estructura
+
+- Clases
+- Pre-test al inicio de cada clase a partir de la clase 2
+- Por cada semana habrá un caso práctico para resolver usando la información que aprendieron en la semana
+
+## Evaluación
+
+## Bibliografía
+
+\begin{enumerate}
+  \item Celentano, DD; Moyses S; Farag Y (2024). Epidemiología. Elsevier Health Sciences. [Principal material del curso]
+  \item Weiss NS. (2014). Epidemiologic Methods: Studying the Occurrence of Illness (2nd ed.). Oxford University Press. [Si les interesa profundizar en los tópicos, es un libro de nivel intermedio]
+\end{enumerate}
+
